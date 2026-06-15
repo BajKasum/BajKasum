@@ -50,8 +50,8 @@ Welcome to my GitHub! I'm a software development student who loves turning ideas
 
 I'm always open to connecting, learning, and new opportunities. Feel free to reach out!
 
-- 💼 **LinkedIn:** [Kasum Bajrami](https://www.linkedin.com/in/your-handle) <!-- ← replace with your real LinkedIn URL -->
-- 🌐 **Portfolio:** [kasumbajrami.dev](https://kasumbajrami.dev)
+- 💼 **LinkedIn:** [Kasum Bajrami](https://www.linkedin.com/in/kasum-bajrami-885a653a6/) 
+- 🌐 **Portfolio:** [kasumbajrami.dev](www.kasumbajrami.dev)
 - 📫 **Email:** kasumbajrami7@gmail.com
 
 ---
