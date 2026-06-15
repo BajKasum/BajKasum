@@ -8,10 +8,10 @@ Welcome to my GitHub! I'm a software development student who loves turning ideas
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Currently studying** at the **Informatikmittelschule (IMS) Basel** to become an application developer (since 2024).
+- 🎓 **Currently studying** at the **Informatikmittelschule (IMS) Basel** to become an Software developer (since 2024).
 - 🎯 **Next goal:** starting a **software development internship in August 2027** to dive deep into real-world practice and learn from experienced developers.
 - 🌱 **Currently learning:** modern **full-stack web development** while building my own SaaS project from scratch.
-- 🛠️ **What drives me:** I love how creative software development can be — every line of code is a building block for something bigger.
+- 🛠️ **What drives me:** I love how creative software development can be every line of code is a building block for something bigger.
 - ⚡ **Beyond code:** you'll usually find me on the **padel court** (my favorite), playing **football**, or listening to **music** all day long.
 - 🌍 **Languages:** German, Albanian & Macedonian (native), plus English and French.
 
