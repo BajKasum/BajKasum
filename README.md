@@ -33,7 +33,7 @@
 <table align="center">
 <tr>
 <td width="150" align="center">
-<img src="assets/finn.png" width="130" alt="Finn, the PromptPrinter dolphin mascot"/>
+<img src="https://raw.githubusercontent.com/BajKasum/PromptPrinter/main/public/mascot/dolphin-explaining.png" width="130" alt="Finn, the PromptPrinter dolphin mascot"/>
 </td>
 <td>
 
@@ -85,12 +85,7 @@ Meet **Finn** 🐬 — the dolphin mascot who asks the right questions so you do
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BajKasum&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BajKasum&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BajKasum&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=c9d1d9&langs_count=8" width="55%" />
-
 </div>
 
 <br/>
