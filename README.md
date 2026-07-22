@@ -69,7 +69,7 @@ Meet **Finn** 🐬 — the dolphin mascot who asks the right questions so you do
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark" />
 
 **Tools & Platforms**
 
