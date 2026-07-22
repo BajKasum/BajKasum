@@ -1,59 +1,138 @@
-# Hi, I'm Kasum 👋
+<div align="center">
 
-### Aspiring Software Developer based in Basel, Switzerland 🇨🇭
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,50:9D0191,100:F72585&height=260&section=header&text=Hi,%20I'm%20Kasum%20👋&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20from%20Basel,%20Switzerland&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
-Welcome to my GitHub! I'm a software development student who loves turning ideas into things people can actually use. Whether it's a school project or my own SaaS, I enjoy building clean, thoughtful software from front to back.
+<a href="https://github.com/BajKasum">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=F72585&center=true&vCenter=true&width=650&lines=Building+PromptPrinter+%F0%9F%96%A8%EF%B8%8F;Learning+Fedora+Linux+%F0%9F%90%A7;Full-Stack+%2B+SaaS+from+Scratch+%E2%9A%A1;Currently+at+IMS+Basel+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BajKasum&style=for-the-badge&color=F72585&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/BajKasum?style=for-the-badge&color=7209B7&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
+
+</div>
+
+<br/>
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Currently studying** at the **Informatikmittelschule (IMS) Basel** to become an Software developer (since 2024).
-- 🎯 **Next goal:** starting a **software development internship in August 2027** to dive deep into real-world practice and learn from experienced developers.
-- 🌱 **Currently learning:** modern **full-stack web development** while building my own SaaS project from scratch.
-- 🛠️ **What drives me:** I love how creative software development can be every line of code is a building block for something bigger.
-- ⚡ **Beyond code:** you'll usually find me on the **padel court** (my favorite), playing **football**, or listening to **music** all day long.
-- 🌍 **Languages:** German, Albanian & Macedonian (native), plus English and French.
+```yaml
+kasum:
+  role: "Software Development Student"
+  based_in: "Basel, Switzerland 🇨🇭"
+  studying_at: "Informatikmittelschule (IMS) Basel — since 2024"
+  next_goal: "Software Development Internship — August 2027"
+  currently_building: "PromptPrinter 🖨️ — my own SaaS project, from scratch"
+  currently_learning: ["Full-Stack Web Development", "Fedora Linux 🐧"]
+  drives_me: "Every line of code is a building block for something bigger"
+  beyond_code: ["Padel 🎾 (my favorite)", "Football ⚽", "Music 🎧 all day long"]
+  languages: ["German", "Albanian", "Macedonian", "English", "French"]
+```
 
----
+<br/>
+
+## 🚀 Currently Building
+
+<table align="center">
+<tr>
+<td width="600px">
+
+### 🖨️ [PromptPrinter](https://github.com/BajKasum/PromptPrinter)
+
+> My current passion project — turning prompt engineering into something you can hold, organize and reuse. Built end-to-end as my own SaaS, from database to deploy.
+
+![Repo](https://img.shields.io/badge/status-actively_building-F72585?style=for-the-badge)
+![Made with](https://img.shields.io/badge/stack-full--stack-7209B7?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🐧 On the side:** diving into **Fedora Linux** — daily-driving it to get comfortable outside the Windows/Mac bubble.
+
+![Fedora](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Learning](https://img.shields.io/badge/mode-learning_in_public-F72585?style=for-the-badge)
+
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,java,php,html,css,js&theme=dark" />
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb&theme=dark" />
 
-**Tools**
+**Tools & Platforms**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,github,vscode,figma,vercel&theme=dark" />
 
----
+</div>
 
-## 🤝 Let's Connect
+<br/>
 
-I'm always open to connecting, learning, and new opportunities. Feel free to reach out!
+## 📊 GitHub Stats
 
-- 💼 **LinkedIn:** [Kasum Bajrami](https://www.linkedin.com/in/kasum-bajrami-885a653a6/) 
-- 🌐 **Portfolio:** [kasumbajrami.dev](www.kasumbajrami.dev)
-- 📫 **Email:** kasumbajrami7@gmail.com
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=BajKasum&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=F72585&icon_color=7209B7&text_color=ffffff&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BajKasum&theme=dark&hide_border=true&background=00000000&ring=F72585&fire=F72585&currStreakLabel=F72585&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9d9d9d" width="49%" />
 
-<sub>Thanks for stopping by — let's build something great. 🚀</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BajKasum&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=F72585&text_color=ffffff&langs_count=8" width="55%" />
+
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BajKasum&theme=react-dark&hide_border=true&bg_color=00000000&color=F72585&line=7209B7&point=ffffff&area=true&area_color=F72585" width="100%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BajKasum/BajKasum/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>⚙️ Auto-generated by a GitHub Action — see setup instructions below.</sub>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BajKasum&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+
+</div>
+
+<br/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasum-bajrami-885a653a6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kasumbajrami.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasumbajrami7@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:120078&height=120&section=footer" width="100%"/>
