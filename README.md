@@ -4,11 +4,11 @@
  
 Software development student at IMS Basel, based in Basel, Switzerland. Swiss-Albanian, roots in Macedonia.
  
-![Tech stack](https://skillicons.dev/icons?i=ts,java,cs,supabase,php,js,postgres)
+![Tech stack](https://skillicons.dev/icons?i=ts,java,cs,php,js,postgres)
  
-**Currently learning:** TypeScript, C#, PostgreSQL
+**Currently learning:** TypeScript, C#
  
-**Already comfortable with:** Java, Supabase, PHP, JavaScript
+**Already comfortable with:** Java, PHP, JavaScript, PostgreSQL
  
 Looking for a software dev internship starting August 2027.
  
