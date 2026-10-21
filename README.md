@@ -4,9 +4,9 @@
 
 Software development student at IMS Basel, based in Basel, Switzerland. Swiss-Albanian, roots in Macedonia.
 
-![Tech stack](https://skillicons.dev/icons?i=cs,java,php,postgres,python)
+![Tech stack](https://skillicons.dev/icons?i=cs,java,php,postgres,python,docker)
 
-**Main Focus & Most Comfortable:** C#, PHP
+**Main Focus & Most Comfortable:** C#, PHP, Docker
 
 **Also Comfortable with:** Java, PostgreSQL, Python
 
