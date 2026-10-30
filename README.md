@@ -4,11 +4,13 @@
 
 Software development student at IMS Basel, based in Basel, Switzerland. Swiss-Albanian, roots in Macedonia.
 
-![Tech stack](https://skillicons.dev/icons?i=cs,java,php,postgres,python,docker)
+![Tech stack](https://skillicons.dev/icons?i=php,laravel,cs,java,postgres,python,docker)
 
-**Main Focus & Most Comfortable:** C#, PHP, Docker
+**Main Focus & Current Stack:** PHP, Laravel, Docker
 
-**Also Comfortable with:** Java, PostgreSQL, Python
+**Also Comfortable with:** C#, Java, PostgreSQL, Python
+
+**Currently Learning:** Laravel and modern PHP development
 
 **Interests:** Software Engineering, AI-Driven Development & Intelligent Technologies
 
