@@ -12,8 +12,6 @@ Software development student at IMS Basel, based in Basel, Switzerland. Swiss-Al
 
 **Interests:** Software Engineering, AI-Driven Development & Intelligent Technologies
 
-Looking for a software dev internship starting August 2027.
-
 Outside of code: padel, football, music.
 
 [LinkedIn](https://www.linkedin.com/in/kasum-bajrami-885a653a6/) · [Portfolio](https://www.kasumbajrami.dev) · [Mail](mailto:kasumbajrami7@gmail.com)
