@@ -14,6 +14,6 @@ Software development student at IMS Basel, based in Basel, Switzerland. Swiss-Al
 
 **Interests:** Software Engineering, AI-Driven Development & Intelligent Technologies
 
-Outside of code: padel, football, music.
+I enjoy building stuff and listen to music
 
 [LinkedIn](https://www.linkedin.com/in/kasum-bajrami-885a653a6/) · [Portfolio](https://www.kasumbajrami.dev) · [Mail](mailto:kasumbajrami7@gmail.com)
